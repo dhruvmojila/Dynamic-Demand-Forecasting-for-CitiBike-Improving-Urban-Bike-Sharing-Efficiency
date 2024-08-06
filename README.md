@@ -63,7 +63,7 @@ The tuned Random Forest model demonstrates improved accuracy in predicting bike 
 
 For a detailed walkthrough of the project, check out the video explanation below:
 
-[![Watch the video](![image](https://github.com/user-attachments/assets/09ba56ad-d42e-488b-a53f-4246f1db3815))](https://youtu.be/XEVKsJoxTHs?si=bFp9ij_Q_fX7a5iG)
+[![Watch the video](https://github.com/user-attachments/assets/09ba56ad-d42e-488b-a53f-4246f1db3815)](https://youtu.be/XEVKsJoxTHs?si=bFp9ij_Q_fX7a5iG)
 
 ## 📚 References
 
