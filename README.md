@@ -59,11 +59,11 @@ We employed the **Random Forest Regressor** due to its robustness and accuracy i
 
 The tuned Random Forest model demonstrates improved accuracy in predicting bike demand, allowing for more effective bike redistribution. This advancement promises a more balanced and user-friendly bike-sharing experience.
 
-<!-- ## 📹 Video Explanation
+## 📹 Video Explanation
 
-For a detailed walkthrough of the project, check out the [Video Explanation](https://github.com/dhruvmojila/Dynamic-Demand-Forecasting-for-CitiBike-Improving-Urban-Bike-Sharing-Efficiency/raw/main/Video%20Explanation/Dynamic%20Demand%20Forecasting%20for%20CitiBike%20Improving%20Urban%20Bike-Sharing%20Efficiency.mp4) embedded below:
+For a detailed walkthrough of the project, check out the video explanation below:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://github.com/dhruvmojila/Dynamic-Demand-Forecasting-for-CitiBike-Improving-Urban-Bike-Sharing-Efficiency/raw/main/Video%20Explanation/Dynamic%20Demand%20Forecasting%20for%20CitiBike%20Improving%20Urban%20Bike-Sharing%20Efficiency.mp4) -->
+[![Watch the video](![image](https://github.com/user-attachments/assets/09ba56ad-d42e-488b-a53f-4246f1db3815))](https://youtu.be/XEVKsJoxTHs?si=bFp9ij_Q_fX7a5iG)
 
 ## 📚 References
 
